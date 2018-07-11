@@ -1,0 +1,17 @@
+@charset "UTF-8";
+$color:#ccc;
+ul{
+    li{
+        a{
+            display: block;
+            color: $color;
+            &:hover{
+                display: inline;
+            };
+            font-family: '微软雅黑';
+        }
+        a:hover{
+
+        }
+    }
+}
