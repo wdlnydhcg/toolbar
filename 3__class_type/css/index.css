@@ -2,10 +2,8 @@
 ul li a {
   display: block;
   color: #ccc;
-  font-family: '微软雅黑';
-}
-ul li a:hover {
-  display: inline;
-}
+  font-family: '微软雅黑'; }
+  ul li a:hover {
+    display: inline; }
 
 /*# sourceMappingURL=index.css.map */
